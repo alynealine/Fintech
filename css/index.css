@@ -1,0 +1,45 @@
+body {
+  background-color: #759ae4;
+}
+
+
+
+#teste{
+    width: 400px;
+    height: 300px;
+    background-image: url(/tela-inicial.jpg);
+    background-size:cover;
+    background-repeat: no-repeat,repeat;
+}
+
+
+h1{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+
+
+.my-button  {
+    margin-bottom: 5%;
+}
+
+.btn-cadastrar {
+    background-color: rgb(85, 138, 187);
+    color: white;
+}
+
+.btn-ja-sou-cadastrado {
+    background-color: rgb(5, 52, 97);
+    color: white;
+}
+
+.container {
+    left: 100%;
+    margin-right: -50%;
+    position: absolute;
+    top: 50%;
+}
